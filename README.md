@@ -1,2 +1,3 @@
 # Cybersecurity-Portfolio
-A portfolio of work that I have completed during the MSU/edX Cybersecurity Bootcamp
+A portfolio of some of the work that I have completed during the MSU/edX Cybersecurity Bootcamp. Some of this work includes an assignment that showcases my knowledge of log analysis using Splunk, a handful of class projects that allowed me to showcase the skills and abilities I learned in the class, like my final project for the class: a presentation about a script that we used to automate a malware scanning tool called "rkhunter." I'm very proud of the work I did in this class and I'm very excited to show it to the world. 
+If you have any questions, please email me directly at starrj93@gmail.com. Thank you!
